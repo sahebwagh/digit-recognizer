@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# PyCharm/VS Code
+.idea/
+.vscode/
+
+# Model files
+*.keras
+*.h5
+saved_model/
+
+# Others
+.DS_Store
+*.log
